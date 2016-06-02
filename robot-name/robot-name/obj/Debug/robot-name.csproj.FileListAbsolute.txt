@@ -1,0 +1,6 @@
+C:\Users\Fermion\Documents\Visual Studio 2012\Projects\robot-name\robot-name\bin\Debug\robot-name.dll
+C:\Users\Fermion\Documents\Visual Studio 2012\Projects\robot-name\robot-name\bin\Debug\robot-name.pdb
+C:\Users\Fermion\Documents\Visual Studio 2012\Projects\robot-name\robot-name\bin\Debug\nunit.framework.dll
+C:\Users\Fermion\Documents\Visual Studio 2012\Projects\robot-name\robot-name\bin\Debug\nunit.framework.xml
+C:\Users\Fermion\Documents\Visual Studio 2012\Projects\robot-name\robot-name\obj\Debug\robot-name.dll
+C:\Users\Fermion\Documents\Visual Studio 2012\Projects\robot-name\robot-name\obj\Debug\robot-name.pdb
