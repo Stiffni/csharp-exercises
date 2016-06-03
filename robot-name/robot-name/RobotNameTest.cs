@@ -1,4 +1,5 @@
 using System;
+using System.Threading;
 using NUnit.Framework;
 using robot_name;
 
@@ -28,9 +29,11 @@ public class RobotNameTest
     [Test]
     public void Different_robots_have_different_names()
     {
+        Thread.Sleep(5);
         var robot2 = new Robot();
         Console.WriteLine(robot2.Name);
         Console.WriteLine(robot.Name);
+        
         Assert.That(robot.Name, Is.Not.EqualTo(robot2.Name));
     }
 
