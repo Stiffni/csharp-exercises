@@ -1,0 +1,6 @@
+D:\Documents\C_Sharp Mentoring\QuestionBot\QuestionBot\bin\Debug\QuestionBot.exe.config
+D:\Documents\C_Sharp Mentoring\QuestionBot\QuestionBot\obj\Debug\QuestionBot.csprojResolveAssemblyReference.cache
+D:\Documents\C_Sharp Mentoring\QuestionBot\QuestionBot\bin\Debug\QuestionBot.exe
+D:\Documents\C_Sharp Mentoring\QuestionBot\QuestionBot\bin\Debug\QuestionBot.pdb
+D:\Documents\C_Sharp Mentoring\QuestionBot\QuestionBot\obj\Debug\QuestionBot.exe
+D:\Documents\C_Sharp Mentoring\QuestionBot\QuestionBot\obj\Debug\QuestionBot.pdb
